@@ -2,7 +2,7 @@
 
 ## Authors
 Hana Abd El-Latif, Jessica Bratahani, Samantha Sy, Jesslyn Noorjono, Michelle Lie  
-This report is written for **DSO 556 Fall 2024** a graduate course at **USC, Marshall School of Business**
+This report is written for **DSO 556: Business Models for Digital Platforms - Fall 2024** a graduate course at **USC, Marshall School of Business**
 
 ## **Overview**  
 This report explores the **Mobile Contactless Payments DP Ecosystem**, a rapidly growing $91B industry, analyzing its key players, ecosystem health, and strategic moves that drive innovation and adoption. The report provides insights into the robustness, productivity, and niche creation within the digital payments landscape, emphasizing how dominant and emerging players shape the ecosystem.
@@ -35,4 +35,4 @@ This report explores the **Mobile Contactless Payments DP Ecosystem**, a rapidly
 By fostering collaboration between **dominant players** and **emerging innovators**, the mobile contactless payments ecosystem can drive sustained growth, improve financial accessibility, and accelerate the transition to a **cashless digital economy**.
 
 ## References
-References for this report are listed in [References.md]()
+References for this report are listed in [References.md](https://github.com/jmbratahani/Mobile-Contactless-Payments-DP-Ecosystem/blob/main/References.md)
